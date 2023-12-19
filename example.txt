@@ -1,1 +1,2 @@
 Hi,, Iam learning shell scripting for devops.
+updating scripting
